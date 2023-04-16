@@ -22,3 +22,11 @@ Then from the prices data set we created a new feature which gives the trading w
 Now we deployed the model on a platform called Streamlit share, and we have provided the links and video recording (the clarity is a bit low) in the submission.
 
 After searching for a company, you will get the full form, the sentiment score, the trading performance as well as a brief description on how to read the graphs.
+
+
+
+Running on local syste.
+1. Clone this repo on your pc.
+2. Run the following command 
+
+`streamlit run Main.py`

@@ -6,6 +6,7 @@ PS Hari Govind - (CE19B070)
 Sreedars S J - (ME19B174)
 Nallana Divya - (MM21B041)
 
+You can find the guide to using it on https://www.youtube.com/watch?v=9hXBZX1NaVw. The one given on google form is not the correct one.
 OUR PRODUCT IS CALLED FAT (Finanical Analysis Tool)
 
 Please note you need to search the company in Capital Letters

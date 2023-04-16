@@ -33,6 +33,7 @@ After searching for a company, you will get the full form, the sentiment score, 
 
 Running on local syste.
 1. Clone this repo on your pc.
-2. Run the following command 
+2. Install the libraries mentioned in requirements.txt
+3. Run the following command in the command line
 
 `streamlit run Main.py`

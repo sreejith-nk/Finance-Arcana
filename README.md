@@ -8,6 +8,12 @@ Nallana Divya - (MM21B041)
 
 You can find the guide to using it on https://www.youtube.com/watch?v=9hXBZX1NaVw. The one given on google form is not the correct one.
 
+Link to deployed site - https://sreejith-nk-finance-arcana-main-4g041p.streamlit.app/. (There is an issue with the hosting service we used, once after hosting the website crash within 20-30 minutes.) So, If you find it crashed please inform us we can reboot it from our side.
+
+POC-SREEJITH N (9746978806)
+
+----------------------------------------------------------------------------------
+
 OUR PRODUCT IS CALLED FAT (Finanical Analysis Tool)
 
 Please note you need to search the company in Capital Letters

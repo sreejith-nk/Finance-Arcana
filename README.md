@@ -1,8 +1,8 @@
 # Arcana-Royal Warriors
 We are Team Royal Warriors
 The Members are - 
-Sreejith NK - (CH19B090)
 PS Hari Govind - (CE19B070)
+Sreejith NK - (CH19B090)
 Sreedars S J - (ME19B174)
 Nallana Divya - (MM21B041)
 
@@ -10,7 +10,6 @@ You can find the guide to using it on https://www.youtube.com/watch?v=9hXBZX1NaV
 
 Link to deployed site - https://sreejith-nk-finance-arcana-main-4g041p.streamlit.app/. (There is an issue with the hosting service we used, once after hosting the website crash within 20-30 minutes.) So, If you find it crashed please inform us we can reboot it from our side.
 
-POC-SREEJITH N (9746978806)
 
 ----------------------------------------------------------------------------------
 
